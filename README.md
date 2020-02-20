@@ -1,2 +1,3 @@
 # my_project
 compyuterga ulash uchun
+ 6277007b84dc828d49bce81d77e7ef8d22194020
