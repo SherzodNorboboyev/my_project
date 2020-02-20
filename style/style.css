@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header{
   background-image: linear-gradient(green, blue);
   height: 50%;
@@ -7,4 +8,15 @@
   color: red;
   text-shadow: 1px, 1px, yellow;
   font-size: 20px;
+=======
+.header{
+  background-image: linear-gradient(green, blue);
+  height: 50%;
+  width: 50%;
+}
+#first{
+  color: red;
+  text-shadow: 1px, 1px, yellow;
+  font-size: 20px;
+>>>>>>> origin/john
 }
